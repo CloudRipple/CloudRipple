@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am CloudRipple, an engineering student.
+I am CloudRipple, an engineering student @SII and @Fudan University.
+
+SII is an institution dedicated to innovation in education and research in the field of AI.
