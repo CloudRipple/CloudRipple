@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am CloudRipple, an engineering student @SII and @Fudan University.
+I am CloudRipple, an engineering student @OpenMOSS, @sii-research and @Fudan University.
 
 SII is an institution dedicated to innovation in education and research in the field of AI.
